@@ -1,22 +1,22 @@
 {
     "domain": "diy.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "전동 공구",
+        "페인트 및 벽지",
+        "인테리어 소품"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang diy items."
+        "전동 공구": {
+            "topic": "Power drills, electric saws, screwdrivers.",
+            "role": "Power tool specialist."
         },
-        "수유/이유식": {
-            "topic": "diy bottle sterilizers, diy food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "페인트 및 벽지": {
+            "topic": "Interior paint, wallpapers, paint brushes.",
+            "role": "Home DIY expert."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "인테리어 소품": {
+            "topic": "Door handles, lighting fixtures, hinges.",
+            "role": "Self-interior curator."
         }
     }
 }
