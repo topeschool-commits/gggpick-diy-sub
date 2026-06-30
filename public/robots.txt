@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diy.gggpick.com/sitemap.xml
